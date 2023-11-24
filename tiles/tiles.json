@@ -10,14 +10,14 @@
   "maxzoom": 18,
   "center": [
     139.716568,
-    35.670127,
+    35.634419,
     18
   ],
   "bounds": [
-    139.711909,
-    35.626501,
-    139.778071,
-    35.677096
+    123.746618,
+    24.220887,
+    146.953125,
+    45.501182
   ],
   "tiles": [
     "https://humo-tech.github.io/vectortiles_30daymapchallenge2023_day23/tiles/{z}/{x}/{y}.mvt"
